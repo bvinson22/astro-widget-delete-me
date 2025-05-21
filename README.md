@@ -52,3 +52,4 @@ tools used
 * Chat gpt
 * Copilot
 * Figma
+* fontshare
